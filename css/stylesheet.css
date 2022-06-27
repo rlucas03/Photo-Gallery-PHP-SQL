@@ -1,0 +1,49 @@
+/***************************************
+			PROTOTYPE FMA 
+***************************************/
+
+body {
+	background: yellow;
+	color: #black;
+}
+
+#wrapper {
+	width: 65%;
+	margin:15px auto;
+	border: 15px groove black;
+	background-color: white;
+
+}
+
+form div {
+	margin-top: 4px;
+}
+
+img:hover {
+    width:500px;
+}
+
+#img_div {
+	width: 80%;
+	padding: 5px;
+}
+
+#img_div:after {
+	content:"";
+	display: block;
+	clear: both;
+	border: 1px solid black;
+}
+
+
+img {
+	max-width: 150px;
+	max-height: 150px;
+	float: left;
+	margin: 2.5%;
+}
+
+ul li {
+	list-style-type: none;
+
+}
