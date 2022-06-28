@@ -1,4 +1,4 @@
-Images/ Photo Gallery Web Application using MYSQL and PHP. By Ryan Lucas
+Images/ Photo Gallery Web Application using MYSQL and PHP. By Ryan Lucas.
 
 You can upload a valid photo with a title and description. Mime type is checked to ensure file has valid photo extension, e.g, .jpg. Photo is also resized while maintaining aspect ratio. 
 
